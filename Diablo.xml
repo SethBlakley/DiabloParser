@@ -1,0 +1,132 @@
+
+<Items>
+    <Item ID="1" Muli="cone_cold" Color="RW" Name="Stärke" Type="Monarch" Comment="" Status="" Timestamp="6/28/2022 9:41:33 AM">
+        <Stats>
+            <Stat Value="'TaltThulortamn'" />
+            <Stat Value="Defense: 141" />
+            <Stat Value="Chance To Block: 42%" />
+            <Stat Value="Durability: 49 of 86" />
+            <Stat Value="Reouired Strength: 156" />
+            <Stat Value="Reouired Level: 54" />
+            <Stat Value="+2 to All Skills" />
+            <Stat Value="+26% Faster Cast Rate" />
+            <Stat Value="+55% Faster Hit Recovery" />
+            <Stat Value="+250 Defense vs. Missile" />
+            <Stat Value="+22 to Vitality" />
+            <Stat Value="+103 to Mana" />
+            <Stat Value="Cold Resist +35%" />
+            <Stat Value="Lightning Resist +35%" />
+            <Stat Value="Poison Resist +35%" />
+            <Stat Value="+6 Magic Absorb" />
+            <Stat Value="Attacker Takes Damage of 14" />
+            <Stat Value="Socketed (4)" />
+            <Stat Value="Hold Shift to Compare" />
+        </Stats>
+    </Item>
+    <Item ID="2" Muli="cone" Color="RW" Name="Stärke" Type="Monarch" Comment="" Status="" Timestamp="6/28/2022 10:42:25 AM">
+        <Stats>
+            <Stat Value="'TaltThulortamn'" />
+            <Stat Value="Defense: 141" />
+            <Stat Value="Chance To Block: 42%" />
+            <Stat Value="Durability: 49 of 86" />
+            <Stat Value="Reouired Strength: 156" />
+            <Stat Value="Reouired Level: 54" />
+            <Stat Value="+2 to All Skills" />
+            <Stat Value="+26% Faster Cast Rate" />
+            <Stat Value="+55% Faster Hit Recovery" />
+            <Stat Value="+250 Defense vs. Missile" />
+            <Stat Value="+22 to Vitality" />
+            <Stat Value="+103 to Mana" />
+            <Stat Value="Cold Resist +35%" />
+            <Stat Value="Lightning Resist +35%" />
+            <Stat Value="Poison Resist +35%" />
+            <Stat Value="+6 Magic Absorb" />
+            <Stat Value="Attacker Takes Damage of 14" />
+            <Stat Value="Socketed (4)" />
+            <Stat Value="Hold Shift to Compare" />
+        </Stats>
+    </Item>
+    <Item ID="3" Muli="cone" Color="Grau" Name="MDcryptic Sword" Type="MDcryptic Sword" Comment="" Status="" Timestamp="6/28/2022 10:44:56 AM">
+        <Stats>
+            <Stat Value="One-Hand Damage: 7 to 115" />
+            <Stat Value="Durability: 23 of 23" />
+            <Stat Value="Reouired Dexterity: 99" />
+            <Stat Value="Reouired Strength: 89" />
+            <Stat Value="Reouired Level: 61" />
+            <Stat Value="Sword Class - Fast Attack Speed" />
+            <Stat Value="Ethereal (Cannot be Repaired), Socketed (4)" />
+            <Stat Value="Hold Shift to Compare" />
+        </Stats>
+    </Item>
+    <Item ID="4" Muli="cone" Color="Grün" Name="Khalims Wille" Type="Polierter Stab" Comment="" Status="" Timestamp="6/28/2022 10:46:01 AM">
+        <Stats>
+            <Stat Value="Defense: 161" />
+            <Stat Value="Durasbility: 38 of 55" />
+            <Stat Value="(Barbarian Only)" />
+            <Stat Value="Reouired Strength: 65" />
+            <Stat Value="Reouired Level: 47" />
+            <Stat Value="+2 to Warcries (Barbarian Only)" />
+            <Stat Value="+1 zu Leben" />
+            <Stat Value="37% Extragold von Monstern" />
+            <Stat Value="33% Better Chance of Getting Magic Items" />
+            <Stat Value="+1 zu Lichtradius" />
+            <Stat Value="Gesockelt (2)" />
+            <Stat Value="Wegstossung" />
+            <Stat Value="Immortal King's Stone Crusher" />
+            <Stat Value="Immortal King's Pillar" />
+            <Stat Value="Immortal King's Forge" />
+            <Stat Value="Immortal King's Detail" />
+            <Stat Value="Immortal King's Soul Cage" />
+            <Stat Value="Immortal King's Will" />
+            <Stat Value="Hold Shift to Compare" />
+        </Stats>
+    </Item>
+    <Item ID="5" Muli="cone" Color="Orange" Name="139 Shael Rune" Type="versteinerter Stab" Comment="" Status="" Timestamp="6/28/2022 10:58:40 AM">
+        <Stats>
+            <Stat Value="Weapons: +20% Increased Attack Speed" />
+            <Stat Value="Armor: +20% Faster hit Recovery" />
+            <Stat Value="Helms: +20% Faster Hit Recovery" />
+            <Stat Value="Shields: +20% Faster Block Rate" />
+            <Stat Value="Reouired Level: 29" />
+            <Stat Value="Ctrl + Left Click to Move" />
+        </Stats>
+    </Item>
+    <Item ID="6" Muli="`" Color="RW" Name="Stärke" Type="Monarch" Comment="" Status="" Timestamp="6/29/2022 5:16:28 AM">
+        <Stats>
+            <Stat Value="'&quot;TaltThulortamn'" />
+            <Stat Value="Defense: 134" />
+            <Stat Value="Chance to Block: 42%" />
+            <Stat Value="Reouired Strength: 156" />
+            <Stat Value="Reouired Level: 54" />
+            <Stat Value="+2 to All Skills" />
+            <Stat Value="+28% Faster Cast Rate" />
+            <Stat Value="+55% Faster Hit Recovery" />
+            <Stat Value="+250 Defense vs. Missile" />
+            <Stat Value="+22 to Vitality" />
+            <Stat Value="+102 to Mana" />
+            <Stat Value="Cold Resist +35%" />
+            <Stat Value="Lightning Resist +35%" />
+            <Stat Value="Poison Resist +35%" />
+            <Stat Value="+5 Magic Absorb" />
+            <Stat Value="Attacker Takes Damage of 14" />
+            <Stat Value="Socketed (4)" />
+        </Stats>
+    </Item>
+    <Item ID="7" Muli="cone" Color="Gold" Name="Sandsturmtreck" Type="Schlagaxt" Comment="" Status="" Timestamp="6/29/2022 5:17:32 AM">
+        <Stats>
+            <Stat Value="Defense: 166" />
+            <Stat Value="Durability: 14 of 14" />
+            <Stat Value="Reouired Strength: 91" />
+            <Stat Value="Reouired Level: 64" />
+            <Stat Value="+20% Faster Run/Walk" />
+            <Stat Value="+20% Faster Hit Recovery" />
+            <Stat Value="+152% Enhanced Defense" />
+            <Stat Value="+13 zu Stärke" />
+            <Stat Value="+13 zu Vitalität" />
+            <Stat Value="+77 Maximum Stamina (Based on Character Level)" />
+            <Stat Value="50% Slower Stamina Drain" />
+            <Stat Value="Poison Resist +54%" />
+            <Stat Value="Repairs 1 durability in 20 seconds" />
+        </Stats>
+    </Item>
+</Items>

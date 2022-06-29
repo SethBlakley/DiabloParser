@@ -1,0 +1,275 @@
+
+
+Stärke - Monarch 
+ ------------------------- 
+
+'TaltThulortamn' 
+Chance To Block: 42% 
+Reouired Strength: 156 
+Reouired Level: 54 
+Defense: 141 
++2 to All Skills 
++26% Faster Cast Rate 
++55% Faster Hit Recovery 
++250 Defense vs. Missile 
++103 to Mana 
++22 to Vitality 
+Lightning Resist +35% 
+Poison Resist +35% 
++6 Magic Absorb 
+Cold Resist +35% 
+
+
+Stärke - Monarch 
+ ------------------------- 
+
+Attacker Takes Damage of 14 
+'TaltThulortamn' 
+Defense: 141 
+Chance To Block: 42% 
+Reouired Strength: 156 
++2 to All Skills 
+Reouired Level: 54 
++55% Faster Hit Recovery 
++26% Faster Cast Rate 
++250 Defense vs. Missile 
++22 to Vitality 
++103 to Mana 
+Cold Resist +35% 
+Lightning Resist +35% 
+Poison Resist +35% 
+Attacker Takes Damage of 14 
++6 Magic Absorb 
+Socketed (4) 
+
+
+MDcryptic Sword - MDcryptic Sword 
+ ------------------------- 
+
+One-Hand Damage: 7 to 115 
+Reouired Strength: 89 
+Reouired Dexterity: 99 
+Socketed (4) 
+Reouired Level: 61 
+Sword Class - Fast Attack Speed 
+Ethereal (Cannot be Repaired), Socketed (4) 
+Durasbility: 38 of 55 
+
+
+Khalims Wille - Polierter Stab 
+ ------------------------- 
+
+Reouired Strength: 65 
+Defense: 161 
+(Barbarian Only) 
+Reouired Level: 47 
+37% Extragold von Monstern 
++2 to Warcries (Barbarian Only) 
+33% Better Chance of Getting Magic Items 
++1 zu Lichtradius 
+Gesockelt (2) 
++1 zu Leben 
+Immortal King's Stone Crusher 
+Immortal King's Forge 
+Wegstossung 
+Immortal King's Pillar 
+Immortal King's Soul Cage 
+
+
+139 Shael Rune - versteinerter Stab 
+ ------------------------- 
+
+Weapons: +20% Increased Attack Speed 
+Armor: +20% Faster hit Recovery 
+Immortal King's Will 
+Helms: +20% Faster Hit Recovery 
+
+
+Stärke - Monarch 
+ ------------------------- 
+
+Shields: +20% Faster Block Rate 
+Immortal King's Detail 
+Defense: 134 
+Reouired Level: 29 
+Reouired Strength: 156 
+Chance to Block: 42% 
+Reouired Level: 54 
+'"TaltThulortamn' 
++28% Faster Cast Rate 
++55% Faster Hit Recovery 
++22 to Vitality 
++250 Defense vs. Missile 
++2 to All Skills 
+Lightning Resist +35% 
++102 to Mana 
+Cold Resist +35% 
+Poison Resist +35% 
+Attacker Takes Damage of 14 
+
+
+Sandsturmtreck - Schlagaxt 
+ ------------------------- 
+
+Socketed (4) 
++5 Magic Absorb 
+Reouired Strength: 91 
+Reouired Level: 64 
++20% Faster Run/Walk 
++20% Faster Hit Recovery 
++13 zu Stärke 
++152% Enhanced Defense 
++13 zu Vitalität 
++77 Maximum Stamina (Based on Character Level) 
+Poison Resist +54% 
+50% Slower Stamina Drain 
+Repairs 1 durability in 20 seconds 
+Defense: 166 
+
+
+
+
+
+
+
+
+
+
+NEWFILE
+
+Stärke - Monarch 
+ ------------------------- 
+
+'TaltThulortamn' 
+Defense: 141 
+Chance To Block: 42% 
+Reouired Strength: 156 
+Reouired Level: 54 
++2 to All Skills 
++55% Faster Hit Recovery 
++26% Faster Cast Rate 
++250 Defense vs. Missile 
++22 to Vitality 
++103 to Mana 
+Cold Resist +35% 
+Lightning Resist +35% 
++6 Magic Absorb 
+Poison Resist +35% 
+Attacker Takes Damage of 14 
+
+
+Stärke - Monarch 
+ ------------------------- 
+
+Defense: 141 
+'TaltThulortamn' 
+Chance To Block: 42% 
+Reouired Strength: 156 
+Socketed (4) 
+Reouired Level: 54 
++26% Faster Cast Rate 
++55% Faster Hit Recovery 
++22 to Vitality 
++250 Defense vs. Missile 
++2 to All Skills 
++103 to Mana 
+Cold Resist +35% 
+Lightning Resist +35% 
+Poison Resist +35% 
+Attacker Takes Damage of 14 
+
+
+MDcryptic Sword - MDcryptic Sword 
+ ------------------------- 
+
+Socketed (4) 
++6 Magic Absorb 
+Reouired Dexterity: 99 
+One-Hand Damage: 7 to 115 
+Sword Class - Fast Attack Speed 
+Reouired Level: 61 
+Reouired Strength: 89 
+Ethereal (Cannot be Repaired), Socketed (4) 
+
+
+Khalims Wille - Polierter Stab 
+ ------------------------- 
+
+Defense: 161 
+Durasbility: 38 of 55 
+(Barbarian Only) 
+Reouired Level: 47 
++2 to Warcries (Barbarian Only) 
+37% Extragold von Monstern 
+33% Better Chance of Getting Magic Items 
++1 zu Leben 
++1 zu Lichtradius 
+Wegstossung 
+Reouired Strength: 65 
+Immortal King's Stone Crusher 
+Immortal King's Pillar 
+Immortal King's Detail 
+Gesockelt (2) 
+Immortal King's Forge 
+Immortal King's Soul Cage 
+
+
+139 Shael Rune - versteinerter Stab 
+ ------------------------- 
+
+Weapons: +20% Increased Attack Speed 
+Immortal King's Will 
+Armor: +20% Faster hit Recovery 
+Helms: +20% Faster Hit Recovery 
+Shields: +20% Faster Block Rate 
+
+
+Stärke - Monarch 
+ ------------------------- 
+
+'"TaltThulortamn' 
+Reouired Level: 29 
+Reouired Strength: 156 
+Chance to Block: 42% 
+Reouired Level: 54 
++2 to All Skills 
++28% Faster Cast Rate 
++55% Faster Hit Recovery 
++250 Defense vs. Missile 
++22 to Vitality 
++102 to Mana 
+Cold Resist +35% 
+Lightning Resist +35% 
+Poison Resist +35% 
+Attacker Takes Damage of 14 
+Defense: 134 
++5 Magic Absorb 
+
+
+Sandsturmtreck - Schlagaxt 
+ ------------------------- 
+
+Defense: 166 
+Socketed (4) 
+Reouired Strength: 91 
++20% Faster Hit Recovery 
++20% Faster Run/Walk 
+Reouired Level: 64 
++13 zu Stärke 
++152% Enhanced Defense 
++77 Maximum Stamina (Based on Character Level) 
+50% Slower Stamina Drain 
++13 zu Vitalität 
+Poison Resist +54% 
+Repairs 1 durability in 20 seconds 
+
+
+
+
+
+
+
+
+
+
+NEWFILE
